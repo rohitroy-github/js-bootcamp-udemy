@@ -1,4 +1,4 @@
-let name = '  Rohit Roy '
+let name = '  Andrew Mead '
 
 // Length property
 console.log(name.length)

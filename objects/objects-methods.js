@@ -1,7 +1,6 @@
-let restaurant = 
-{
+let restaurant = {
     name: 'ASB',
-    guestCapacity: 100,
+    guestCapacity: 75,
     guestCount: 0,
     checkAvailability: function (partySize) {
         let seatsLeft = this.guestCapacity - this.guestCount
